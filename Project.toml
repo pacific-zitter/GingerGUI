@@ -3,6 +3,12 @@ uuid = "a4f54c52-d46e-4bb1-a64e-fa394cd884aa"
 authors = ["Jeff Harrison"]
 version = "0.1.0"
 
+[deps]
+Blink = "ad839575-38b3-5650-b840-f874b8c74a25"
+Interact = "c601a237-2ae4-5e1e-952c-7a85b0c7eef1"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+NamedTupleTools = "d9ec5142-1e00-5aa0-9d6a-321866360f50"
+
 [compat]
 julia = "1.3"
 
